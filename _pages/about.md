@@ -11,4 +11,4 @@ I study how the identities, social positions, and beliefs that people bring into
 
 I approach these questions using a broad variety of methods including controlled experiments, field studies, archival analysis of large text corpora, natural language processing, and LLM-based coding.
 
-I am currently a PhD student at Columbia Business School. Before that, I earned my B.A. in Cognitive Science from U.C. Berkeley (go Bears!).
+I am currently a Ph.D. student at Columbia Business School. Before that, I earned my B.A. in Cognitive Science from U.C. Berkeley (go Bears!).
