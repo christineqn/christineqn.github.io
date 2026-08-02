@@ -11,6 +11,7 @@ redirect_from:
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vTeRXXJkDMSpwuL6-mfUptLIslklBuGUjfE6Oqpto1rhjF-rDCZ1yjhFGfsUG_kEjbrEnvQ7QJbROhM/pub?embedded=true" width="100%" height="800px"></iframe>
 
+<!--
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -64,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
