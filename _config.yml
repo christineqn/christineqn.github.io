@@ -23,7 +23,7 @@ repository               : "christineqn/christineqn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ChristineNguyen-medium.png"
   name             : "Christine Q. Nguyen"
   pronouns         : "she/her"  
   bio              : "PhD student"
