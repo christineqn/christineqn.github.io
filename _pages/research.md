@@ -37,9 +37,9 @@ Mittal, A., Boland, F. K., **Nguyen, C. Q.**, Lee, A. J., & Mason, M. F. Bold bu
 
 **Nguyen, C. Q.**, & Yeomans, M. Gender differences in conversational receptiveness during disagreement. Submitted to *Management Science*.
 
-Jarvis, S. N., Ebersole, C. R., Zhu, M., & **Nguyen, C. Q.** Influences of conferences: Exploring the social and scientific effects of conference attendance. In preparation.
+Carter, J. T., Mason, M. F., & **Nguyen, C. Q.** The pay gap, exacerbated: Prior wage looms larger for marginalized people. In preparation.
 
-Carter, J. T., Mason, M. F., & **Nguyen, C. Q.** The pay gap, exacerbated: Prior wage looms larger for marginalized people. Data collection under way.
+Jarvis, S. N., Ebersole, C. R., Zhu, M., & **Nguyen, C. Q.** Influences of conferences: Exploring the social and scientific effects of conference attendance. In preparation.
 
 **Nguyen, C. Q.** & Ames, D. A. When a thousand words paint a picture: Perceiver and target effects of blirtatiousness in group conversations. Data collection under way.
 
