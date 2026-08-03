@@ -53,17 +53,11 @@
     font-family: $sans-serif;
     font-size: $type-size-5;
     line-height: 1.5;
-    overflow-wrap: anywhere;
-    word-break: break-word;
   }
 
   img {
     width: 100%;
   }
-
-  max-width: 100%;
-  overflow-wrap: anywhere;
-  word-break: break-word;
 }
 
 .sidebar__right {
@@ -326,9 +320,5 @@
     &:hover {
       text-decoration: underline;
     }
-  }
-
-  .author__urls li {
-    white-space: normal;
   }
 }

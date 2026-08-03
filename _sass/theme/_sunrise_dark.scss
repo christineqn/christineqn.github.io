@@ -2,7 +2,7 @@
     SUNRISE THEME - DARK VERSION
     ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #ff8793;
+$primary-color              : #4A7C59/*#ff8793*/;
 $dark-primary-color         : #ff5568;
 $darker-primary-color       : #d4741f;
 $light-primary-color        : #ffb3bb;
@@ -12,7 +12,7 @@ $background-light           : #2d1912;
 $background-lighter        : #3d2a1a;
 $text                      : #e8d5b7;
 $text-muted                : #b8a590;
-$link                      : #ff8793;
+$link                      : mix(#fff, $primary-color, 10%)/*#ff8793*/;
 $link-hover                : #ffb3bb;
 $link-visited              : #ff5568;
 $footer                    : #2d1912;
