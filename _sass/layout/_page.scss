@@ -12,8 +12,7 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    padding-left: calc(1em + #{$sidebar-link-max-width});
-    max-width: calc(#{$x-large} - #{$sidebar-link-max-width});
+    max-width: $x-large;
   }
 }
 
