@@ -15,7 +15,7 @@
   }
 
   a {
-    /*text-decoration: underline;*/
+    text-decoration: underline;
 
     &:hover {
       /*text-decoration: underline;*/
@@ -25,9 +25,10 @@
       }
     }
 
+    color: inherit;
     display: inline;
     background-repeat: no-repeat;
-    background-image: linear-gradient(--global-link-color-hover, --global-link-color-hover),
+    background-image: linear-gradient(currentColor, currentColor),
                       linear-gradient(currentColor, currentColor);
     background-size: 50% 1px, 50% 1px;
     background-position: 0% 100%, 100% 100%;
@@ -41,13 +42,13 @@
     }
   }
   @keyframes underlineSlideOut {
-    from { background-position: 0% 90%, 100% 90%; }
-    to   { background-position: 200% 90%, 300% 90%; }
+    from { background-position: 0% 100%, 100% 100%; }
+    to   { background-position: 200% 100%, 300% 100%; }
   }
 
   @keyframes underlineSlideIn {
-    from { background-position: -200% 90%, -100% 90%; }
-    to   { background-position: 0% 90%, 100% 90%; }
+    from { background-position: -200% 100%, -100% 100%; }
+    to   { background-position: 0% 100%, 100% 100%; }
   }
 }
 
